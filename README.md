@@ -1,6 +1,9 @@
 # Pizza_Sales
 Data Analytics Project
 
+<img width="1919" height="1102" alt="Screenshot 2025-12-27 181836" src="https://github.com/user-attachments/assets/84b8ced2-2d29-4020-b71d-38643ed5cfc2" />
+
+
 🍕 Pizza Sales Analysis Using SQL & Excel
 📌 Project Overview
 
